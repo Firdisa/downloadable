@@ -1,5 +1,4 @@
-# downloadable
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,13 +52,15 @@
 <div class="menu-section">
     <h2>Breakfast</h2>
     <div class="menu-item">
-        <span class="item-name">Chechebsa</span>
+        <span class="item-name">Caacabsaa</span>
         <span class="item-price">90 ETB</span><br>
         <span class="item-desc">Traditional Oromo breakfast made with injera and butter</span>
     </div>
     <div class="menu-item">
         <span class="item-name">Scrambled Eggs</span>
         <span class="item-price">70 ETB</span><br>
+        <span class="Item-name">Wadii fafatoo</span>
+        <span class="Item-price">200 ETB</span><br>
         <span class="item-desc">Served with toast and fresh tomato</span>
     </div>
 </div>
